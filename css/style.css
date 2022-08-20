@@ -89,7 +89,9 @@ button:hover {
     border: none;
     transition: all linear .3s;
 }
-
+body{
+    overflow:hidden;
+}
 /* section of common css end */
 /* header section start */
 #navbar {
